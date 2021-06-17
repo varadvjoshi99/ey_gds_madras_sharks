@@ -1,4 +1,4 @@
-# ey_hackathon
+# EY_hackathon
 
 Contains file pertaining to EY-GDS Hackpions 2.0
 
